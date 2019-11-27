@@ -1,0 +1,1767 @@
+{
+  "spiderLogs" : [ {
+    "dateTime" : "2019/11/27 09:47:52",
+    "message" : "Initiated Logger.",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:47:52",
+    "message" : "Initiated AutoAware for url : http://Automationx.tiechenet.com/ , with an active thread count of 5",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:47:52",
+    "message" : "AutoAware initiate request received for url:http://Automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:05",
+    "message" : "[Task-0]-New Page Created with no of objects :32 Page Name : Automation-X with URL : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:10",
+    "message" : "[Task-5]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:13",
+    "message" : "[Task-3]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:19",
+    "message" : "[Task-7]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:26",
+    "message" : "[Task-1]-New Page Created with no of objects :32 Page Name : indexhtml with URL : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:29",
+    "message" : "[Task-2]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:33",
+    "message" : "[Task-4]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:37",
+    "message" : "[Task-8]-New Page Created with no of objects :5 Page Name : Automation-X Customer Portal with URL : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:41",
+    "message" : "[Task-11]-New Page Created with no of objects :32 Page Name : introducing-automationx with URL : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:42",
+    "message" : "[Task-10]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:42",
+    "message" : "[Task-6]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:51",
+    "message" : "[Task-13]-New Page Created with no of objects :32 Page Name : contact-us with URL : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:52",
+    "message" : "[Task-12]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:52",
+    "message" : "[Task-15]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:53",
+    "message" : "[Task-14]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:48:53",
+    "message" : "[Task-16]-New Page Created with no of objects :32 Page Name : careers with URL : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:01",
+    "message" : "[Task-18]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:01",
+    "message" : "[Task-19]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:02",
+    "message" : "[Task-17]-New Page Created with no of objects :18 Page Name : blog-future-of-automationhtml with URL : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:04",
+    "message" : "[Task-21]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:04",
+    "message" : "[Task-20]-New Page Created with no of objects :18 Page Name : blog-introducing-automationxhtml with URL : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:08",
+    "message" : "[Task-22]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:12",
+    "message" : "[Task-25]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:12",
+    "message" : "[Task-24]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:17",
+    "message" : "[Task-23]-New Page Created with no of objects :18 Page Name : blog-flyerhtml with URL : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:19",
+    "message" : "[Task-27]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:20",
+    "message" : "[Task-26]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:20",
+    "message" : "[Task-29]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:22",
+    "message" : "[Task-28]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:30",
+    "message" : "[Task-30]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:31",
+    "message" : "[Task-32]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:32",
+    "message" : "[Task-31]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:35",
+    "message" : "[Task-33]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:37",
+    "message" : "[Task-34]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:38",
+    "message" : "[Task-36]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:38",
+    "message" : "[Task-37]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:41",
+    "message" : "[Task-38]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:41",
+    "message" : "[Task-35]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:42",
+    "message" : "[Task-41]-New Page Created with no of objects :32 Page Name : indexhtmlintroducing-automationx with URL : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:44",
+    "message" : "[Task-40]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:47",
+    "message" : "[Task-42]-New Page Created with no of objects :32 Page Name : indexhtmlcontact-us with URL : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:49",
+    "message" : "[Task-44]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:49",
+    "message" : "[Task-45]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:50",
+    "message" : "[Task-43]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:58",
+    "message" : "[Task-48]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:49:58",
+    "message" : "[Task-46]-New Page Created with no of objects :32 Page Name : indexhtmlcareers with URL : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:00",
+    "message" : "[Task-50]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:00",
+    "message" : "[Task-47]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:01",
+    "message" : "[Task-49]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:02",
+    "message" : "[Task-51]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:09",
+    "message" : "[Task-52]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:10",
+    "message" : "[Task-54]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:10",
+    "message" : "[Task-55]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:12",
+    "message" : "[Task-53]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:15",
+    "message" : "[Task-56]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:19",
+    "message" : "[Task-57]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:21",
+    "message" : "[Task-59]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:21",
+    "message" : "[Task-60]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:23",
+    "message" : "[Task-58]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:28",
+    "message" : "[Task-63]-New Page Created with no of objects :5 Page Name : Automation-X Customer Portal_1 with URL : http://automationx.tiechenet.com/customer_portal/#",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:30",
+    "message" : "[Task-61]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:30",
+    "message" : "[Task-62]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/#",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:31",
+    "message" : "[Task-65]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:34",
+    "message" : "[Task-67]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:36",
+    "message" : "[Task-68]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:37",
+    "message" : "[Task-71]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:38",
+    "message" : "[Task-66]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:38",
+    "message" : "[Task-70]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:39",
+    "message" : "[Task-72]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:41",
+    "message" : "[Task-75]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:41",
+    "message" : "[Task-69]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:41",
+    "message" : "[Task-74]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:43",
+    "message" : "[Task-79]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:43",
+    "message" : "[Task-77]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:43",
+    "message" : "[Task-78]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:44",
+    "message" : "[Task-76]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:45",
+    "message" : "[Task-82]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:46",
+    "message" : "[Task-83]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:46",
+    "message" : "[Task-81]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:47",
+    "message" : "[Task-84]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:48",
+    "message" : "[Task-80]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:48",
+    "message" : "[Task-85]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:48",
+    "message" : "[Task-86]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:51",
+    "message" : "[Task-89]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:51",
+    "message" : "[Task-91]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:52",
+    "message" : "[Task-88]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:53",
+    "message" : "[Task-93]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:54",
+    "message" : "[Task-92]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:54",
+    "message" : "[Task-90]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:55",
+    "message" : "[Task-94]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:57",
+    "message" : "[Task-97]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:58",
+    "message" : "[Task-87]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:58",
+    "message" : "[Task-98]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:50:59",
+    "message" : "[Task-95]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:02",
+    "message" : "[Task-96]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:02",
+    "message" : "[Task-99]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:02",
+    "message" : "[Task-101]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:03",
+    "message" : "[Task-100]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:04",
+    "message" : "[Task-105]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:04",
+    "message" : "[Task-102]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:04",
+    "message" : "[Task-104]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:05",
+    "message" : "[Task-106]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:06",
+    "message" : "[Task-107]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:06",
+    "message" : "[Task-109]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:07",
+    "message" : "[Task-111]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:08",
+    "message" : "[Task-112]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:09",
+    "message" : "[Task-108]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:09",
+    "message" : "[Task-113]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:09",
+    "message" : "[Task-115]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:10",
+    "message" : "[Task-116]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:10",
+    "message" : "[Task-110]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:11",
+    "message" : "[Task-118]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:11",
+    "message" : "[Task-119]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:11",
+    "message" : "[Task-114]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:12",
+    "message" : "[Task-121]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:13",
+    "message" : "[Task-120]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:13",
+    "message" : "[Task-122]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:15",
+    "message" : "[Task-123]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:16",
+    "message" : "[Task-124]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:18",
+    "message" : "[Task-117]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:19",
+    "message" : "[Task-125]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:19",
+    "message" : "[Task-127]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:19",
+    "message" : "[Task-128]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:22",
+    "message" : "[Task-131]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:22",
+    "message" : "[Task-132]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:23",
+    "message" : "[Task-126]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:24",
+    "message" : "[Task-129]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:25",
+    "message" : "[Task-130]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:26",
+    "message" : "[Task-135]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:26",
+    "message" : "[Task-136]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:26",
+    "message" : "[Task-137]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:26",
+    "message" : "[Task-138]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:27",
+    "message" : "[Task-139]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:27",
+    "message" : "[Task-140]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:28",
+    "message" : "[Task-134]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:28",
+    "message" : "[Task-142]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:29",
+    "message" : "[Task-143]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:29",
+    "message" : "[Task-141]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:29",
+    "message" : "[Task-145]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:30",
+    "message" : "[Task-146]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:31",
+    "message" : "[Task-149]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:32",
+    "message" : "[Task-148]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:34",
+    "message" : "[Task-151]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:34",
+    "message" : "[Task-150]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:34",
+    "message" : "[Task-144]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:36",
+    "message" : "[Task-152]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:36",
+    "message" : "[Task-154]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:36",
+    "message" : "[Task-153]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:40",
+    "message" : "[Task-155]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:43",
+    "message" : "[Task-158]-New Page Created with no of objects :32 Page Name : pricing with URL : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:45",
+    "message" : "[Task-157]-New Page Created with no of objects :32 Page Name : features-container with URL : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:47",
+    "message" : "[Task-159]-New Page Created with no of objects :32 Page Name : about-us with URL : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:49",
+    "message" : "[Task-156]-New Page Created with no of objects :32 Page Name : iq-home with URL : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:52",
+    "message" : "[Task-161]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:52",
+    "message" : "[Task-162]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:52",
+    "message" : "[Task-160]-New Page Created with no of objects :32 Page Name : blog with URL : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:54",
+    "message" : "[Task-147]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:56",
+    "message" : "[Task-164]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:57",
+    "message" : "[Task-166]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:57",
+    "message" : "[Task-167]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:58",
+    "message" : "[Task-169]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:58",
+    "message" : "[Task-168]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:59",
+    "message" : "[Task-171]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:51:59",
+    "message" : "[Task-172]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:02",
+    "message" : "[Task-170]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:06",
+    "message" : "[Task-174]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:06",
+    "message" : "[Task-175]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:10",
+    "message" : "[Task-176]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:10",
+    "message" : "[Task-177]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:12",
+    "message" : "[Task-173]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:15",
+    "message" : "[Task-179]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:15",
+    "message" : "[Task-178]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:16",
+    "message" : "[Task-180]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:18",
+    "message" : "[Task-184]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:20",
+    "message" : "[Task-185]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:20",
+    "message" : "[Task-182]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:22",
+    "message" : "[Task-187]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:22",
+    "message" : "[Task-188]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:23",
+    "message" : "[Task-189]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:23",
+    "message" : "[Task-186]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:24",
+    "message" : "[Task-190]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:30",
+    "message" : "[Task-191]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:32",
+    "message" : "[Task-194]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:33",
+    "message" : "[Task-193]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:33",
+    "message" : "[Task-195]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:37",
+    "message" : "[Task-192]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:38",
+    "message" : "[Task-198]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:38",
+    "message" : "[Task-196]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:39",
+    "message" : "[Task-197]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:42",
+    "message" : "[Task-202]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:43",
+    "message" : "[Task-200]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:43",
+    "message" : "[Task-203]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:44",
+    "message" : "[Task-204]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:44",
+    "message" : "[Task-205]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:45",
+    "message" : "[Task-206]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:46",
+    "message" : "[Task-208]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:47",
+    "message" : "[Task-207]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:54",
+    "message" : "[Task-212]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:55",
+    "message" : "[Task-213]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:55",
+    "message" : "[Task-209]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:56",
+    "message" : "[Task-211]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:57",
+    "message" : "[Task-210]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:58",
+    "message" : "[Task-214]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:52:59",
+    "message" : "[Task-215]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:00",
+    "message" : "[Task-216]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:00",
+    "message" : "[Task-219]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:00",
+    "message" : "[Task-218]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:02",
+    "message" : "[Task-220]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:03",
+    "message" : "[Task-222]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:04",
+    "message" : "[Task-224]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:04",
+    "message" : "[Task-221]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:05",
+    "message" : "[Task-225]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:06",
+    "message" : "[Task-226]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:06",
+    "message" : "[Task-227]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:07",
+    "message" : "[Task-223]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:08",
+    "message" : "[Task-228]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:08",
+    "message" : "[Task-230]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:10",
+    "message" : "[Task-229]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:10",
+    "message" : "[Task-231]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:10",
+    "message" : "[Task-232]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:14",
+    "message" : "[Task-234]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:14",
+    "message" : "[Task-235]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:14",
+    "message" : "[Task-237]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:15",
+    "message" : "[Task-233]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:17",
+    "message" : "[Task-238]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:18",
+    "message" : "[Task-236]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:20",
+    "message" : "[Task-239]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:21",
+    "message" : "[Task-242]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:22",
+    "message" : "[Task-240]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:23",
+    "message" : "[Task-241]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:23",
+    "message" : "[Task-243]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:23",
+    "message" : "[Task-244]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:23",
+    "message" : "[Task-245]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:24",
+    "message" : "[Task-246]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:25",
+    "message" : "[Task-250]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:26",
+    "message" : "[Task-248]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:27",
+    "message" : "[Task-252]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:27",
+    "message" : "[Task-249]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:27",
+    "message" : "[Task-254]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:28",
+    "message" : "[Task-251]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:29",
+    "message" : "[Task-255]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:30",
+    "message" : "[Task-256]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:30",
+    "message" : "[Task-257]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:32",
+    "message" : "[Task-258]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:33",
+    "message" : "[Task-253]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:33",
+    "message" : "[Task-260]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:34",
+    "message" : "[Task-261]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:36",
+    "message" : "[Task-259]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:36",
+    "message" : "[Task-263]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:37",
+    "message" : "[Task-262]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:37",
+    "message" : "[Task-267]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:38",
+    "message" : "[Task-264]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:38",
+    "message" : "[Task-266]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:39",
+    "message" : "[Task-265]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:40",
+    "message" : "[Task-270]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:42",
+    "message" : "[Task-272]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:43",
+    "message" : "[Task-269]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:44",
+    "message" : "[Task-273]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:44",
+    "message" : "[Task-271]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:45",
+    "message" : "[Task-268]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:45",
+    "message" : "[Task-274]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:47",
+    "message" : "[Task-279]- Page already exists: Do not save.indexhtmlintroducing-automationx and : http://automationx.tiechenet.com/index.html#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:47",
+    "message" : "[Task-275]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:47",
+    "message" : "[Task-276]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:48",
+    "message" : "[Task-278]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:50",
+    "message" : "[Task-280]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:51",
+    "message" : "[Task-281]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:51",
+    "message" : "[Task-284]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:53",
+    "message" : "[Task-282]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:53",
+    "message" : "[Task-287]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:54",
+    "message" : "[Task-286]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:54",
+    "message" : "[Task-283]- Page already exists: Do not save.indexhtmlcontact-us and : http://automationx.tiechenet.com/index.html#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:54",
+    "message" : "[Task-285]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:55",
+    "message" : "[Task-289]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:56",
+    "message" : "[Task-290]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:58",
+    "message" : "[Task-288]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:58",
+    "message" : "[Task-291]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:53:59",
+    "message" : "[Task-293]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:02",
+    "message" : "[Task-294]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:02",
+    "message" : "[Task-292]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:02",
+    "message" : "[Task-297]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:04",
+    "message" : "[Task-295]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:05",
+    "message" : "[Task-298]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:06",
+    "message" : "[Task-296]- Page already exists: Do not save.indexhtmlcareers and : http://automationx.tiechenet.com/index.html#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:07",
+    "message" : "[Task-300]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/#",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:09",
+    "message" : "[Task-301]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/#",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:10",
+    "message" : "[Task-299]- Page already exists: Do not save.Automation-X and : http://automationx.tiechenet.com/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:15",
+    "message" : "[Task-304]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:15",
+    "message" : "[Task-306]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:16",
+    "message" : "[Task-303]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:16",
+    "message" : "[Task-305]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:19",
+    "message" : "[Task-308]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:19",
+    "message" : "[Task-307]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:21",
+    "message" : "[Task-312]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:21",
+    "message" : "[Task-313]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:21",
+    "message" : "[Task-310]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:21",
+    "message" : "[Task-315]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:23",
+    "message" : "[Task-316]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:24",
+    "message" : "[Task-318]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:24",
+    "message" : "[Task-317]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:25",
+    "message" : "[Task-314]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:25",
+    "message" : "[Task-319]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:25",
+    "message" : "[Task-320]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:26",
+    "message" : "[Task-321]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:27",
+    "message" : "[Task-322]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:27",
+    "message" : "[Task-324]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:28",
+    "message" : "[Task-323]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:28",
+    "message" : "[Task-325]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:28",
+    "message" : "[Task-327]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:29",
+    "message" : "[Task-326]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:29",
+    "message" : "[Task-330]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:30",
+    "message" : "[Task-331]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:31",
+    "message" : "[Task-329]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:33",
+    "message" : "[Task-328]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:35",
+    "message" : "[Task-333]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:35",
+    "message" : "[Task-334]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:35",
+    "message" : "[Task-332]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:37",
+    "message" : "[Task-335]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:37",
+    "message" : "[Task-309]- Page already exists: Do not save.pricing and : http://automationx.tiechenet.com/#pricing",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:38",
+    "message" : "[Task-337]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:39",
+    "message" : "[Task-338]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:39",
+    "message" : "[Task-336]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:40",
+    "message" : "[Task-339]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:40",
+    "message" : "[Task-340]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:41",
+    "message" : "[Task-343]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:42",
+    "message" : "[Task-344]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:42",
+    "message" : "[Task-342]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:43",
+    "message" : "[Task-346]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:43",
+    "message" : "[Task-347]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:43",
+    "message" : "[Task-348]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:43",
+    "message" : "[Task-345]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:44",
+    "message" : "[Task-350]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:44",
+    "message" : "[Task-351]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:45",
+    "message" : "[Task-354]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:45",
+    "message" : "[Task-352]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:46",
+    "message" : "[Task-356]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:46",
+    "message" : "[Task-355]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:47",
+    "message" : "[Task-353]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:50",
+    "message" : "[Task-357]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:50",
+    "message" : "[Task-349]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:51",
+    "message" : "[Task-358]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:52",
+    "message" : "[Task-359]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:53",
+    "message" : "[Task-361]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:53",
+    "message" : "[Task-360]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:57",
+    "message" : "[Task-364]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:57",
+    "message" : "[Task-362]- Page already exists: Do not save.features-container and : http://automationx.tiechenet.com/#features-container",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:58",
+    "message" : "[Task-365]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:58",
+    "message" : "[Task-366]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:54:59",
+    "message" : "[Task-363]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:01",
+    "message" : "[Task-367]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:01",
+    "message" : "[Task-370]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:01",
+    "message" : "[Task-369]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:02",
+    "message" : "[Task-368]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:03",
+    "message" : "[Task-372]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:04",
+    "message" : "[Task-375]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:04",
+    "message" : "[Task-374]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:05",
+    "message" : "[Task-373]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:05",
+    "message" : "[Task-376]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:05",
+    "message" : "[Task-377]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:05",
+    "message" : "[Task-378]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:06",
+    "message" : "[Task-380]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:07",
+    "message" : "[Task-381]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:07",
+    "message" : "[Task-383]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:08",
+    "message" : "[Task-382]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:08",
+    "message" : "[Task-384]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:10",
+    "message" : "[Task-385]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:10",
+    "message" : "[Task-386]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:12",
+    "message" : "[Task-388]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:12",
+    "message" : "[Task-379]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:13",
+    "message" : "[Task-387]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:16",
+    "message" : "[Task-390]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:16",
+    "message" : "[Task-391]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:17",
+    "message" : "[Task-389]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:22",
+    "message" : "[Task-392]- Page already exists: Do not save.about-us and : http://automationx.tiechenet.com/#about-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:22",
+    "message" : "[Task-393]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:23",
+    "message" : "[Task-395]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:24",
+    "message" : "[Task-394]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:29",
+    "message" : "[Task-397]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:29",
+    "message" : "[Task-396]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:30",
+    "message" : "[Task-399]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:31",
+    "message" : "[Task-400]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:34",
+    "message" : "[Task-402]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:35",
+    "message" : "[Task-403]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:35",
+    "message" : "[Task-398]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:37",
+    "message" : "[Task-404]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:38",
+    "message" : "[Task-406]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:38",
+    "message" : "[Task-407]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:40",
+    "message" : "[Task-408]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:42",
+    "message" : "[Task-409]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:43",
+    "message" : "[Task-411]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:43",
+    "message" : "[Task-405]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:44",
+    "message" : "[Task-410]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:46",
+    "message" : "[Task-412]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:47",
+    "message" : "[Task-415]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:47",
+    "message" : "[Task-416]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:47",
+    "message" : "[Task-413]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:48",
+    "message" : "[Task-414]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:54",
+    "message" : "[Task-419]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:55",
+    "message" : "[Task-421]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:57",
+    "message" : "[Task-417]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:57",
+    "message" : "[Task-420]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:55:57",
+    "message" : "[Task-418]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:01",
+    "message" : "[Task-422]- Page already exists: Do not save.iq-home and : http://automationx.tiechenet.com/#iq-home",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:02",
+    "message" : "[Task-426]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:03",
+    "message" : "[Task-424]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:03",
+    "message" : "[Task-423]- Page already exists: Do not save.indexhtml and : http://automationx.tiechenet.com/index.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:04",
+    "message" : "[Task-428]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:05",
+    "message" : "[Task-429]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:05",
+    "message" : "[Task-425]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:06",
+    "message" : "[Task-427]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:08",
+    "message" : "[Task-433]- Page already exists: Do not save.introducing-automationx and : http://automationx.tiechenet.com/#introducing-automationx",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:08",
+    "message" : "[Task-432]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:08",
+    "message" : "[Task-434]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:09",
+    "message" : "[Task-430]- Page already exists: Do not save.Automation-X Customer Portal and : http://automationx.tiechenet.com/customer_portal/",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:10",
+    "message" : "[Task-436]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:11",
+    "message" : "[Task-437]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:12",
+    "message" : "[Task-438]- Page already exists: Do not save.careers and : http://automationx.tiechenet.com/#careers",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:12",
+    "message" : "[Task-440]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:14",
+    "message" : "[Task-441]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:14",
+    "message" : "[Task-439]- Page already exists: Do not save.blog-future-of-automationhtml and : http://automationx.tiechenet.com/blog-future-of-automation.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:14",
+    "message" : "[Task-435]- Page already exists: Do not save.contact-us and : http://automationx.tiechenet.com/#contact-us",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:15",
+    "message" : "[Task-442]- Page already exists: Do not save.blog-introducing-automationxhtml and : http://automationx.tiechenet.com/blog-introducing-automationx.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:15",
+    "message" : "[Task-443]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:16",
+    "message" : "[Task-444]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:17",
+    "message" : "[Task-446]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:18",
+    "message" : "[Task-449]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:21",
+    "message" : "[Task-447]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:21",
+    "message" : "[Task-448]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:21",
+    "message" : "[Task-445]- Page already exists: Do not save.blog-flyerhtml and : http://automationx.tiechenet.com/blog-flyer.html",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:21",
+    "message" : "[Task-451]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:22",
+    "message" : "[Task-450]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:23",
+    "message" : "[Task-452]- Page already exists: Do not save.blog and : http://automationx.tiechenet.com/#blog",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:24",
+    "message" : "Started closing all the browser windows",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:27",
+    "message" : "Completed closing all browser windows",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 09:56:27",
+    "message" : "452 clickable objects identified",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 10:01:28",
+    "message" : "Getting screenshot for page: Automation-X Customer Portal",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 10:02:32",
+    "message" : "Getting screenshot for page: blog-future-of-automationhtml",
+    "type" : "INFO"
+  }, {
+    "dateTime" : "2019/11/27 10:02:51",
+    "message" : "Getting screenshot for page: introducing-automationx",
+    "type" : "INFO"
+  } ]
+}

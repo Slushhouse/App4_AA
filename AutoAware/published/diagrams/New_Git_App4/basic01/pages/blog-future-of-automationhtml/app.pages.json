@@ -1,0 +1,406 @@
+{
+  "url" : "http://automationx.tiechenet.com/blog-future-of-automation.html",
+  "area" : "",
+  "subArea" : "",
+  "name" : "blog-future-of-automationhtml",
+  "uuid" : null,
+  "containerApplication" : "",
+  "createdBy" : null,
+  "modifiedTime" : "2019-11-27 09:56:14",
+  "parentPage" : "Automation-X",
+  "noOfForms" : 0,
+  "noOfTables" : 0,
+  "noOfDropDowns" : 0,
+  "parentPageList" : [ "Automation-X", "indexhtml", "introducing-automationx", "contact-us", "careers", "blog-future-of-automationhtml", "indexhtmlintroducing-automationx", "indexhtmlcontact-us", "indexhtmlcareers", "pricing", "features-container", "about-us", "iq-home", "blog" ],
+  "analysisType" : 0,
+  "autoAwareObjectType" : null,
+  "objectClicked" : "Future of Automation",
+  "parentForm" : null,
+  "parentFormList" : [ ],
+  "pathToPages" : [ {
+    "parentPage" : "Automation-X",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "indexhtml",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "introducing-automationx",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "contact-us",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "careers",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "blog-future-of-automationhtml",
+    "objectClicked" : "S Kayani CTO TIECHE"
+  }, {
+    "parentPage" : "indexhtmlintroducing-automationx",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "indexhtmlcontact-us",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "indexhtmlcareers",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "pricing",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "features-container",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "about-us",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "iq-home",
+    "objectClicked" : "Future of Automation"
+  }, {
+    "parentPage" : "blog",
+    "objectClicked" : "Future of Automation"
+  } ],
+  "pathToForms" : [ ],
+  "environment" : "Tieche",
+  "formNames" : null,
+  "createdTime" : "2019-11-27 09:49:02",
+  "objectmap" : [ {
+    "alias" : "htmlbodyheader1div1div1div1nav1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/header[1]/div[1]/div[1]/div[1]/nav[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n                                \n                            ",
+      "href" : "index.html",
+      "class" : "navbar-brand"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Home",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Home",
+      "href" : "/#iq-home",
+      "class" : "nav-link active"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Features",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Features",
+      "href" : "/#features-container",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Licensing",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Licensing",
+      "href" : "/#pricing",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "About",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "About",
+      "href" : "/#about-us",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "News",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[5]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "News",
+      "href" : "/#blog",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[6]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact",
+      "href" : "/#contact-us",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Support",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[7]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Support",
+      "href" : "/customer_portal/",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idnavbarSupportedContenta1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "http//www.tiecheusa.com"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Home_1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/section[1]/div[1]/div[1]/div[1]/nav[1]/ol[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " Home",
+      "href" : "index.html"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Future of Automation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Future of Automation ",
+      "href" : "blog-single.html"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "S Kayani CTO TIECHE",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " S. Kayani C.T.O TIECHE ENGINEERED SYSTEMS",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "12 Dec 2018",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " 12 Dec 2018",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodyfooter1section1div1div1div3div1div2ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/footer[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//twitter.com/TiecheSystems",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodyfooter1section1div1div1div3div1div2ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/footer[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.instagram.com/tieche_systems/",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodyfooter1section1div1div1div3div1div2ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/footer[1]/section[1]/div[1]/div[1]/div[3]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.youtube.com/channel/UC_94NdZBR5Jqb45FO2xapkQ",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "htmlbodyfooter1section1div1div2div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/footer[1]/section[1]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "javascriptvoid(0)",
+      "class" : "text-green"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "top",
+    "parameter" : "id",
+    "parametervalue" : "top",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "  ",
+      "id" : "top",
+      "href" : "#top",
+      "class" : "top"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  } ]
+}

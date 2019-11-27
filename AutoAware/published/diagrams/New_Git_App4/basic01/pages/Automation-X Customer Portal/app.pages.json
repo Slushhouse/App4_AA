@@ -1,0 +1,238 @@
+{
+  "url" : "http://automationx.tiechenet.com/customer_portal/",
+  "area" : "",
+  "subArea" : "",
+  "name" : "Automation-X Customer Portal",
+  "uuid" : null,
+  "containerApplication" : "",
+  "createdBy" : null,
+  "modifiedTime" : "2019-11-27 09:56:08",
+  "parentPage" : "Automation-X",
+  "noOfForms" : 1,
+  "noOfTables" : 0,
+  "noOfDropDowns" : 0,
+  "parentPageList" : [ "Automation-X", "indexhtml", "introducing-automationx", "contact-us", "careers", "blog-future-of-automationhtml", "blog-introducing-automationxhtml", "blog-flyerhtml", "indexhtmlintroducing-automationx", "indexhtmlcontact-us", "indexhtmlcareers", "pricing", "features-container", "about-us", "iq-home", "blog" ],
+  "analysisType" : 0,
+  "autoAwareObjectType" : null,
+  "objectClicked" : "Support",
+  "parentForm" : null,
+  "parentFormList" : [ ],
+  "pathToPages" : [ {
+    "parentPage" : "Automation-X",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "indexhtml",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "introducing-automationx",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "contact-us",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "careers",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "blog-future-of-automationhtml",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "blog-introducing-automationxhtml",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "blog-flyerhtml",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "indexhtmlintroducing-automationx",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "indexhtmlcontact-us",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "indexhtmlcareers",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "pricing",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "features-container",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "about-us",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "iq-home",
+    "objectClicked" : "Support"
+  }, {
+    "parentPage" : "blog",
+    "objectClicked" : "Support"
+  } ],
+  "pathToForms" : [ ],
+  "environment" : "Tieche",
+  "formNames" : null,
+  "createdTime" : "2019-11-27 09:48:37",
+  "objectmap" : [ {
+    "alias" : "ClicktoreturntoAutomation-",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]",
+    "type" : "FORM",
+    "objectList" : [ {
+      "alias" : "Click to return to Automation-_1",
+      "parameter" : "xpath",
+      "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/span[1]/a[1]",
+      "type" : "LINK",
+      "objectList" : null,
+      "attributes" : {
+        "isclickable" : "true",
+        "textContent" : "\n\t\t\t\t\t\tClick to return to Automation-X website",
+        "href" : "../"
+      },
+      "oldValue" : null,
+      "status" : null,
+      "isFormObject" : false,
+      "defaultDataFile" : null,
+      "autoAwareObjectType" : "CLICKABLE",
+      "allowedCharacters" : "",
+      "fieldLength" : 0
+    }, {
+      "alias" : "Forgot Password",
+      "parameter" : "xpath",
+      "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/div[3]/div[2]/a[1]",
+      "type" : "LINK",
+      "objectList" : null,
+      "attributes" : {
+        "isclickable" : "true",
+        "textContent" : "\n\t\t\t\t\t\t\t\tForgot Password?\n\t\t\t\t\t\t\t",
+        "href" : "#",
+        "class" : "txt1"
+      },
+      "oldValue" : null,
+      "status" : null,
+      "isFormObject" : false,
+      "defaultDataFile" : null,
+      "autoAwareObjectType" : "CLICKABLE",
+      "allowedCharacters" : "",
+      "fieldLength" : 0
+    }, {
+      "alias" : "Sign up here",
+      "parameter" : "xpath",
+      "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/div[4]/span[1]/u[1]/a[1]",
+      "type" : "LINK",
+      "objectList" : null,
+      "attributes" : {
+        "isclickable" : "true",
+        "textContent" : "Sign up here",
+        "href" : "#"
+      },
+      "oldValue" : null,
+      "status" : null,
+      "isFormObject" : false,
+      "defaultDataFile" : null,
+      "autoAwareObjectType" : "CLICKABLE",
+      "allowedCharacters" : "",
+      "fieldLength" : 0
+    }, {
+      "alias" : "TIECHE Inc",
+      "parameter" : "xpath",
+      "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/div[5]/span[1]/a[1]",
+      "type" : "LINK",
+      "objectList" : null,
+      "attributes" : {
+        "isclickable" : "false",
+        "textContent" : " TIECHE Inc. ",
+        "href" : "http//www.tiecheusa.com"
+      },
+      "oldValue" : null,
+      "status" : null,
+      "isFormObject" : false,
+      "defaultDataFile" : null,
+      "autoAwareObjectType" : "OUTSIDE_URL",
+      "allowedCharacters" : "",
+      "fieldLength" : 0
+    } ],
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tClick to return to Automation-X website\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\tCustomer Support Portal\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tEmail\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\tPassword\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tRemember me\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tForgot Password?\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\n\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tLogin\n\t\t\t\t\t\t\n\t\t\t\t\t\tNew to Automation-X? Sign up here\n\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\tCopyright ©  TIECHE Inc. 2019 All Rights Reserved\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\n\n\t\t\t\t\t\t\n\t\t\t\t\t\t\tTerms & Conditions:\n\t\t\t\t\t\t\tThis website was prepared to introduce the range of products & services offered by TIECHE Inc. \n\t\t\t\t\t\t\tTIECHE Inc., its employees or affiliates, do not make any warranty, expressed or implied, \n\t\t\t\t\t\t\tor assumes any legal liability or responsibility for the accuracy, completeness, \n\t\t\t\t\t\t\tor usefulness of any information, apparatus, product, services or process disclosed \n\t\t\t\t\t\t\tin this website or any related links, or represents that its use would not infringe \n\t\t\t\t\t\t\tprivately owned rights. Any use the reader or visitor makes of the information on \n\t\t\t\t\t\t\tthis website or any related links, or any reliance upon decisions to be made based \n\t\t\t\t\t\t\tupon anything included on this website, are the responsibility of the reader. \n\t\t\t\t\t\t\tThe reader, visitor, understands that no assurances can be made that all relevant \n\t\t\t\t\t\t\tfactors have been identified. Reference herein to any specific commercial product, process, \n\t\t\t\t\t\t\tor service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or \n\t\t\t\t\t\t\timply its endorsement, recommendation, or favoring by TIECHE Inc., or any agency, contractor or \n\t\t\t\t\t\t\tsubcontractor thereof.\n\t\t\t\t\t\t\n\n\t\t\t\n\t\t\t\t\t\n\t\t\t\t",
+      "class" : "login100-form validate-form"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Click to return to Automation-_1",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\tClick to return to Automation-X website",
+      "href" : "../"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : true,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Forgot Password",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/div[3]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n\t\t\t\t\t\t\t\tForgot Password?\n\t\t\t\t\t\t\t",
+      "href" : "#",
+      "class" : "txt1"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : true,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Sign up here",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/div[4]/span[1]/u[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Sign up here",
+      "href" : "#"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : true,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "TIECHE Inc",
+    "parameter" : "xpath",
+    "parametervalue" : "/html/body/div[1]/div[1]/div[1]/form[1]/div[5]/span[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : " TIECHE Inc. ",
+      "href" : "http//www.tiecheusa.com"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : true,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  } ]
+}

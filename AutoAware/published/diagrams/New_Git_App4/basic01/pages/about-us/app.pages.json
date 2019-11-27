@@ -1,0 +1,635 @@
+{
+  "url" : "http://automationx.tiechenet.com/#about-us",
+  "area" : "",
+  "subArea" : "",
+  "name" : "about-us",
+  "uuid" : null,
+  "containerApplication" : "",
+  "createdBy" : null,
+  "modifiedTime" : "2019-11-27 09:54:57",
+  "parentPage" : "blog-future-of-automationhtml",
+  "noOfForms" : 2,
+  "noOfTables" : 0,
+  "noOfDropDowns" : 0,
+  "parentPageList" : [ "blog-future-of-automationhtml", "blog-introducing-automationxhtml", "blog-flyerhtml", "about-us" ],
+  "analysisType" : 0,
+  "autoAwareObjectType" : null,
+  "objectClicked" : "About",
+  "parentForm" : null,
+  "parentFormList" : [ ],
+  "pathToPages" : [ {
+    "parentPage" : "blog-future-of-automationhtml",
+    "objectClicked" : "About"
+  }, {
+    "parentPage" : "blog-introducing-automationxhtml",
+    "objectClicked" : "About"
+  }, {
+    "parentPage" : "blog-flyerhtml",
+    "objectClicked" : "About"
+  }, {
+    "parentPage" : "about-us",
+    "objectClicked" : "Home"
+  } ],
+  "pathToForms" : [ ],
+  "environment" : "Tieche",
+  "formNames" : null,
+  "createdTime" : "2019-11-27 09:51:47",
+  "objectmap" : [ {
+    "alias" : "career",
+    "parameter" : "id",
+    "parametervalue" : "career",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "\n                            \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                \n                                        \n                                    \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                Submit\n                                \n                                    Thank You, Your message has been received..\n                                    \n                                        ×\n                                    \n                                \n                            \n                        ",
+      "id" : "career",
+      "method" : "post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "contact",
+    "parameter" : "id",
+    "parametervalue" : "contact",
+    "type" : "FORM",
+    "objectList" : [ ],
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "\n                            \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                \n                                    \n                                \n                                Contact Us\n                                \n                                    Thank You, Your message has been received..\n                                    \n                                        ×\n                                    \n                                \n                            \n                        ",
+      "id" : "contact",
+      "method" : "post"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "NON_CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idmain-headerdiv1div1div1nav1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"main-header\"]/div[1]/div[1]/div[1]/nav[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "\n                                \n                            ",
+      "href" : "index.html",
+      "class" : "navbar-brand"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Home",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Home",
+      "href" : "#iq-home",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Features",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Features",
+      "href" : "#features-container",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Licensing",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Licensing",
+      "href" : "#pricing",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "About",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[4]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "About",
+      "href" : "#about-us",
+      "class" : "nav-link active"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "News",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[5]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "News",
+      "href" : "#blog",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[6]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact",
+      "href" : "#contact-us",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Support",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/ul[1]/li[7]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Support",
+      "href" : "/customer_portal/",
+      "class" : "nav-link"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idnavbarSupportedContenta1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"navbarSupportedContent\"]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "http//www.tiecheusa.com"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idiq-homediv1div1div1div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"iq-home\"]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.youtube.com/watch?v=CK1OKbMZR3U",
+      "class" : "iq-video popup-youtube"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Read More",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"iq-home\"]/div[1]/div[1]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Read More",
+      "href" : "#introducing-automationx",
+      "class" : "button bt-black iq-mt-5 iq-ml-40"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact Us",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"pricing\"]/div[1]/div[1]/div[1]/div[1]/p[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact Us",
+      "href" : "#contact-us"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact Us_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"pricing\"]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact Us",
+      "href" : "#contact-us",
+      "class" : "button"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact Us_2",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"pricing\"]/div[1]/div[2]/div[2]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact Us",
+      "href" : "#contact-us",
+      "class" : "button"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Contact Us_3",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"pricing\"]/div[1]/div[2]/div[3]/div[1]/div[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Contact Us",
+      "href" : "#contact-us",
+      "class" : "button"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Click Here",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"about-us\"]/div[1]/div[1]/div[1]/div[1]/p[5]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Click Here",
+      "href" : "#careers"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Future of Automation",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Future of Automation ",
+      "href" : "blog-future-of-automation.html"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "SKayani",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " S.Kayani",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "12 Dec 2018",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " 12 Dec 2018",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Introducing Automation-X",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Introducing Automation-X ",
+      "href" : "blog-introducing-automationx.html"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "TIECHE Systems",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " TIECHE Systems",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "15 Sep 2018",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " 15 Sep 2018",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "Automation-X Press Release",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "Automation-X Press Release ",
+      "href" : "blog-flyer.html"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "TIECHE Systems_1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " TIECHE Systems",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "20 Jul 2018",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"blog\"]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[3]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : " 20 Jul 2018",
+      "href" : "javascriptvoid(0)"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idcontact-ussection3div1div1div3div1div2ul1li1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"contact-us\"]/section[3]/div[1]/div[1]/div[3]/div[1]/div[2]/ul[1]/li[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//twitter.com/TiecheSystems",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idcontact-ussection3div1div1div3div1div2ul1li2a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"contact-us\"]/section[3]/div[1]/div[1]/div[3]/div[1]/div[2]/ul[1]/li[2]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.instagram.com/tieche_systems/",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idcontact-ussection3div1div1div3div1div2ul1li3a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"contact-us\"]/section[3]/div[1]/div[1]/div[3]/div[1]/div[2]/ul[1]/li[3]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "false",
+      "textContent" : "",
+      "href" : "https//www.youtube.com/channel/UC_94NdZBR5Jqb45FO2xapkQ",
+      "target" : "_blank"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "OUTSIDE_URL",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "idcontact-ussection3div1div2div1div1a1",
+    "parameter" : "xpath",
+    "parametervalue" : "//*[@id=\"contact-us\"]/section[3]/div[1]/div[2]/div[1]/div[1]/a[1]",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "",
+      "href" : "javascriptvoid(0)",
+      "class" : "text-green"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  }, {
+    "alias" : "top",
+    "parameter" : "id",
+    "parametervalue" : "top",
+    "type" : "LINK",
+    "objectList" : null,
+    "attributes" : {
+      "isclickable" : "true",
+      "textContent" : "  ",
+      "id" : "top",
+      "href" : "#top",
+      "class" : "top"
+    },
+    "oldValue" : null,
+    "status" : "old",
+    "isFormObject" : false,
+    "defaultDataFile" : null,
+    "autoAwareObjectType" : "CLICKABLE",
+    "allowedCharacters" : "",
+    "fieldLength" : 0
+  } ]
+}
